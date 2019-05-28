@@ -1,0 +1,2 @@
+# The-Box-Office-Mojo---Movie-Review-system
+The Box Office Mojo is your source for movie reviews and movie ratings to help maximize your movie-going-experience. Our easy to use movie reviews and movie ratings are based on scores and opinions from respected movie critics, family advocacy groups and movie fans like you. Whether it’s a family movie outing, first date or girls’ night out, our movie reviews will help you find the perfect movie for any occasion. 
